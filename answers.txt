@@ -1,3 +1,26 @@
 # W tym pliku napisz odpowiedzi na pytania opisowe.
 
 Zadanie 1.
+
+a) Jakiego narzędzia użyjesz do zaimportowania zewnętrznych bibliotek do Pythona?
+
+Użyję przygotowanego wcześniej skrytpu, w którym będę przechowywał polecenia do interpretatora.
+
+
+b) Wyobraź sobie, że na swojej stacji roboczej rozwijasz równolegle dwa projekty:
+A i B. Projekt A używa biblioteki pyLibA w wersji 1.1, projekt B używa pyLibA w wersji 1.3.
+Jak pogodzisz dwie wersje biblioteki na swoim komputerze?
+
+Stworzę dwa różne środowiska wirtualne, w jednym będzę działał na bibliotece w wersji 1.1 a w drugim na 1.3.
+
+
+c) Jak aktywujesz środowisko wirtualne, a jak je deaktywujesz?
+
+
+Aby aktywować srodowisko wirtualne należy wpisać komendę: source <nazwa-katalogu>/bin/activate - gdzie <nazwa-katalogu> będzie nazwą folderu, gdzie trzymamy środowisko wirtualne.
+Aby dezaktywować środowisko wirtualne należy wpisać komendę: deactivate.
+
+
+
+
+
